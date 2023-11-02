@@ -10,6 +10,12 @@ export const config = {
 export function middleware(req: any) {
   let lng = fallbackLng; // By default, set to Bulgarian
 
+  // Check if the URL is for an image and skip middleware
+  const imageExtensions = ['.png', '.jpg', '.jpeg', '.gif', '.svg'];
+  if (imageExtensions.some(ext => req.nextUrl.pathname.endsWith(ext))) {
+    return NextResponse.next();
+  }
+
   // Check if there's a language set in cookies. If so, use that.
   if (req.cookies.has(cookieName)) {
     const cookieLang = req.cookies.get(cookieName).value;

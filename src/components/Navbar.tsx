@@ -1,6 +1,8 @@
 import React from 'react'
+import { LanguageSwitcher } from './LanguageSwitcher'
 
-function Navbar() {
+//@ts-ignore
+function Navbar({ lng }) {
   return (
     <div className="navbar bg-base-100">
     <div className="navbar-start">
@@ -38,7 +40,7 @@ function Navbar() {
       </ul>
     </div>
     <div className="navbar-end">
-     
+     <LanguageSwitcher lng={lng}/>
     </div>
   </div>
   )
