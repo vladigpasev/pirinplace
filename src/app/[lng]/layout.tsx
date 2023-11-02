@@ -1,6 +1,19 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
+import { dir } from 'i18next'
+import { languages } from '../i18n/settings'
+
+interface RootLayoutProps {
+  children: React.ReactNode;
+  params: {
+    lng: string;
+  };
+}
+
+export async function generateStaticParams() {
+  return languages.map((lng) => ({ lng }))
+}
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -11,11 +24,12 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children,
-}: {
-  children: React.ReactNode
-}) {
+  params: {
+    lng
+  }
+}: RootLayoutProps) {
   return (
-    <html lang="en">
+    <html lang={lng} dir={dir(lng)}>
       <body className={inter.className}>{children}</body>
     </html>
   )
