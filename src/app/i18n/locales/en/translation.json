@@ -1,4 +1,83 @@
 {
-    "title": "Hi there!",
-    "to-second-page": "To second page"
-  }
+    "title": "Pirin Place Bansko",
+    "description": "Discover the allure of Bansko in our exquisite apartment building, crafted in the region's distinctive style. A breathtaking and elegant structure located peacefully in the heart of Bansko and in close proximity to the park. Nestled among other apartment hotels, our building stands out with its closeness to the renowned four-star hotels “Orpheus” and “Pirin”. Just a brisk 10-minute walk to the ski lifts, convenience is right at your doorstep. Built with the finest materials, our apartments offer red brick walls, aluminum windows, external armored doors, and internal wooden doors. For ultimate comfort, the building is fortified with high-grade thermal and water insulation materials and possesses Act 16 certification. Spanning a built-up area of 2500 sq.m., the property showcases a semi-basement with an English courtyard, four main floors, and an attic floor. Trust in the craftsmanship of “Glavbolgarstroy” - one of Bulgaria's leading construction firms. Dive into luxury, comfort, and tradition, all in one location.",
+    "get_started": "See Apartaments",
+
+    "featured_apartments": "Featured Apartments",
+    "more_info": "More",
+
+    "apartament1_title": "Elevated Elegance: Four-Bedroom Gem on Floor 2",
+    "apartament1_description": "Discover the luxurious four-bedroom apartment #9 on Floor 2 with a built-up area of 119.56 sq.m and total area including common parts of 130.42 sq.m. Ideal for families and individuals seeking spacious living in the heart of the city.",
+
+    "apartament2_title": "Skyline Serenity: Two-Bedroom Oasis on Floor 4",
+    "apartament2_description": "Discover the luxurious two-bedroom apartment #21 on Floor 4 with a built-up area of 68.97 sq.m and total area including common parts of 75.24 sq.m. Ideal for families and individuals seeking spacious living in the heart of the city.",
+
+    "apartament3_title": "Urban Utopia: Two-Bedroom Retreat on Floor 3",
+    "apartament3_description": "Discover the luxurious two-bedroom apartment #16 on Floor 3 with a built-up area of 68.16 sq.m and total area including common parts of 74.35 sq.m. Ideal for families and individuals seeking spacious living in the heart of the city.",
+
+    "bath": "Bathroom and toilet",
+    "120sqm": "120 sq. m",
+    "70sqm": "70 sq. m",
+    "4pers": "4 persons",
+    "2pers": "2 persons",
+    "view": "Mountain view",
+
+    "see_more_apartments": "See all",
+
+    "advantages": "Advantages",
+
+    "valid-act-16": "Valid Act 16",
+    "selling_from_owner": "Sold by the owner",
+    "close_to_ski_lifts": "Close to the ski lifts",
+    "quality": "100% construction quality",
+
+    "gallery_title": "Gallery",
+
+    "image_description1": "Exterior view of the facade",
+    "image_description2": "Double room",
+    "image_description3": "Bathroom",
+    "image_description4": "City view",
+    "image_description5": "View from the terrace",
+
+    "reviews_title": "Client reviews",
+
+    "faq_title": "Frequently Asked Questions",
+    "faq_description": "Can’t find the answer you’re looking for? Reach out to our <1>customer support</1> team.",
+
+    "faq_descr_before_link": "Can't find the answer you're looking for? Reach out to our ",
+    "link_faq": "customer support ",
+    "faq_descr_after_link": "team.",
+
+    "faq_question1": "How can I view an apartment at Pirin Place Bansko?",
+    "faq_answer1": "You can start by viewing our featured apartments online or contact us to arrange a personal visit.",
+    "faq_question2": "What are the features of the apartments?",
+    "faq_answer2": "Our apartments are built with high-quality materials, including red brick walls, aluminum windows, armored external doors, and wooden internal doors.",
+    "faq_question3": "Is there access to ski lifts?",
+    "faq_answer3": "Yes, the building is located just a 10-minute walk from the ski lifts, allowing for quick and easy access to mountain activities.",
+    "faq_question4": "What type of insulation is used in the building?",
+    "faq_answer4": "The building is insulated with high-quality thermal and waterproofing materials for maximum comfort.",
+    "faq_question5": "What are the advantages of purchasing an apartment at Pirin Place Bansko?",
+    "faq_answer5": "In addition to high construction quality by 'Glavbolgarstroy', we offer a valid Act 16, direct sales from the owner, and convenience of location.",
+    "faq_question6": "Can I see a gallery of photos of the apartments?",
+    "faq_answer6": "Certainly, you can explore our gallery of images of the apartments and the common areas of the building.",
+    "faq_question7": "How can I read reviews from other clients?",
+    "faq_answer7": "You can find reviews from our clients in the 'Client Reviews' section of our website.",
+    "faq_question8": "What are the procedures for purchasing an apartment?",
+    "faq_answer8": "Contact our customer service department for detailed information on the purchase procedures and necessary documents.",
+    "faq_question9": "Is there an option for installment payments when purchasing?",
+    "faq_answer9": "Yes, we offer flexible payment schemes and can discuss various financing options.",
+    "faq_question10": "How can I contact the customer service department?",
+    "faq_answer10": "You can contact us through the contact forms provided on the website, by phone, or by directly visiting our office.",
+
+    "pirin_place_ltd": "Pirin Place Ltd.",
+    "pirin_place_moto": "Your Dream Home Awaits in Bansko!",
+
+    "contact_us": "Contact Us",
+    "contact_info": "Contact Information",
+    "phone": "Phone",
+    "email": "Email",
+    "visit_us": "Visit Us",
+    "send_us_message": "Send Us a Message",
+    "name": "Name",
+    "message": "Message"
+}
