@@ -17,7 +17,7 @@ export default async function ContactPage({ params: { lng } }) {
           {/* Contact Information */}
           <div>
             <h2 className="text-2xl font-semibold mb-4">{t("contact_info")}</h2>
-            <p className="mb-2"><strong>{t("phone")}:</strong> 359 888 804 586</p>
+            <p className="mb-2"><strong>{t("phone")}:</strong> +359 888 804 586</p>
             <p className="mb-2"><strong>{t("email")}:</strong> info@pirinplace.com</p>
 
             <div className="mt-4">
